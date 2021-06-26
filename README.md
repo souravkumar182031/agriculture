@@ -1,6 +1,6 @@
 # AI in Agriculture
 # Algorithm used for the project
-1 **Convolutional Neural Network**:- 
+1 **Convolutional Neural Network**:- <hr>
 Steps for the algorithm<hr>
  1 Creating convolutional Layers that is creating feature detectors that go through the image 
 
